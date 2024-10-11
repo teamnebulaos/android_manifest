@@ -1,5 +1,6 @@
 NebulaOS (Android 14)
 ===========
+![hellow :3](https://github.com/teamnebulaos/android_manifest/blob/lineage-21.0/assets/banner.png)
 
 Getting started
 ---------------
